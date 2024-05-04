@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{434631C9-DA3F-4763-9218-60C1921ABEB9}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E7F11E8D-7118-4DD8-BF33-1D359BD48B57" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MAUi PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E7F11E8D-7118-4DD8-BF33-1D359BD48B57" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MAUi/MAUi/MauiProgram.cs">
+    <Files>
+      <File FileName="MAUi/MAUi/MauiProgram.cs" Line="1" Column="1" />
+      <File FileName="MAUi/MAUi/PrismStartup.cs" Line="17" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MAUi" expanded="True">
+            <Node name="MAUi" expanded="True">
+              <Node name="MauiProgram.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
