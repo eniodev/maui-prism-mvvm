@@ -12,7 +12,7 @@
       <CodesignDisableTimestamp>true</CodesignDisableTimestamp>
       <CodesignKeychain></CodesignKeychain>
       <CodesignUseHardenedRuntime></CodesignUseHardenedRuntime>
-      <SourceProjectPath>/Users/eniopablo/Projects/MAUi/MAUi/MAUi</SourceProjectPath>
+      <SourceProjectPath>/Users/eniopablo/Documents/code/maui/maui-prism-mvvm/MAUi/MAUi</SourceProjectPath>
     </_CodesignBundle>
   </ItemGroup>
 </Project>

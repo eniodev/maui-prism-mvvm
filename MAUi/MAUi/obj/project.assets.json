@@ -20328,11 +20328,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/eniopablo/Projects/MAUi/MAUi/MAUi/MAUi.csproj",
+      "projectUniqueName": "/Users/eniopablo/Documents/code/maui/maui-prism-mvvm/MAUi/MAUi/MAUi.csproj",
       "projectName": "MAUi",
-      "projectPath": "/Users/eniopablo/Projects/MAUi/MAUi/MAUi/MAUi.csproj",
+      "projectPath": "/Users/eniopablo/Documents/code/maui/maui-prism-mvvm/MAUi/MAUi/MAUi.csproj",
       "packagesPath": "/Users/eniopablo/.nuget/packages/",
-      "outputPath": "/Users/eniopablo/Projects/MAUi/MAUi/MAUi/obj/",
+      "outputPath": "/Users/eniopablo/Documents/code/maui/maui-prism-mvvm/MAUi/MAUi/obj/",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [

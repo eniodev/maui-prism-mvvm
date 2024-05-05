@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NB5Oih6q7kZ/3IloL5cW3Hw+XF+Hx6hWgQhhbPJSTIG3wEv+q9FMcQlviAlRMoaDKqWiaEBndKmjZ6fliERMdA==",
+  "dgSpecHash": "D8dbVjg/kBrVwp0PM82IHjxFVGhwhtJY5d36Rmg71bVp9YHKKyYnHgiaLQ9BwC4KljGnWYETp3HdKZ1ntgfU9g==",
   "success": true,
-  "projectFilePath": "/Users/eniopablo/Projects/MAUi/MAUi/MAUi/MAUi.csproj",
+  "projectFilePath": "/Users/eniopablo/Documents/code/maui/maui-prism-mvvm/MAUi/MAUi/MAUi.csproj",
   "expectedPackageFiles": [
     "/Users/eniopablo/.nuget/packages/dryioc.dll/5.1.0/dryioc.dll.5.1.0.nupkg.sha512",
     "/Users/eniopablo/.nuget/packages/googlegson/2.9.0.1/googlegson.2.9.0.1.nupkg.sha512",
